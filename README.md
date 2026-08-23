@@ -6,7 +6,7 @@
 
 **Jack of all trades, pretty good at all of them.** 
 
-I'm an undergrad engineering student who spends way too much time trying to make physical hardware and functional software play nice together. A friend of magic smoke, but its definitely not my freind. I like building things from the ground up (of course, with help from co-developer AI models)-whether that's a robotics team that makes it to competition finals, clean vector brand identities, or the core firmware that makes a custom microcontroller tick.
+I'm an undergrad engineering student who spends way too much time trying to make physical hardware and functional software play nice together. A friend of magic smoke, but its definitely not my friend. I like building things from the ground up (of course, with help from co-developer AI models), whether it's a custom script to make my life a little bit easier and lazier, a robotics team that makes it to competition finals, vector brand identities that work, or the core firmware that makes an embedded system work.
 
 ### 🚀 What I'm Up To
 *   **Building:** Currently engineering a proprietary embedded hardware product. *(No spoilers until launch day, but it's going to be cool).* 🤫
@@ -31,7 +31,7 @@ I'm an undergrad engineering student who spends way too much time trying to make
 ### 📫 Let's Connect
 Whether you want to talk about embedded architecture, robotics, or why digital art is just as important as clean code, my inbox is open.
 *   💼 **LinkedIn:** [linkedin.com/in/michael-menyawovor](https://linkedin.com/in/michael-menyawovor)
-*   ✉️ **Email:** [otherlittlem@gmail.com](mailto:otherlittlem@gmail.com)
+*   ✉️ **Email:** [emenyawovor@gmail.com](mailto:emenyawovor@gmail.com)
 
 ---
 ⚡ *Fun fact: My code is strictly version-controlled, but my desk during a hardware build is pure, unadulterated chaos.*
