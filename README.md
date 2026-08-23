@@ -6,7 +6,7 @@
 
 **Jack of all trades, pretty good at all of them.** 
 
-I'm an undergrad engineering student who spends way too much time trying to make physical hardware and functional software play nice together. I like building things from the absolute ground up (of course, with help from co-developer AI models)—whether that's a robotics team that makes it to competition finals, clean vector brand identities, or the core firmware that makes a custom microcontroller tick.
+I'm an undergrad engineering student who spends way too much time trying to make physical hardware and functional software play nice together. A friend of magic smoke, but its definitely not my freind. I like building things from the ground up (of course, with help from co-developer AI models)-whether that's a robotics team that makes it to competition finals, clean vector brand identities, or the core firmware that makes a custom microcontroller tick.
 
 ### 🚀 What I'm Up To
 *   **Building:** Currently engineering a proprietary embedded hardware product. *(No spoilers until launch day, but it's going to be cool).* 🤫
