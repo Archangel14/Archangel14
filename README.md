@@ -30,9 +30,8 @@ I'm an undergrad engineering student who spends way too much time trying to make
 
 ### Let's Connect
 Whether you want to talk about embedded architecture, robotics, or why digital art is just as important as clean code, my inbox is open.
-* 
- **LinkedIn:** [linkedin.com/in/michael-menyawovor](https://linkedin.com/in/michael-menyawovor)
-*   ✉️ **Email:** [emenyawovor@gmail.com](mailto:emenyawovor@gmail.com)
+*     **LinkedIn:** [linkedin.com/in/michael-menyawovor](https://linkedin.com/in/michael-menyawovor)
+*     **Email:** [emenyawovor@gmail.com](mailto:emenyawovor@gmail.com)
 
 ---
 *Fun fact: "Make it pretty before you make it work" is highly flawed. Don't ask how I know.*
