@@ -2,7 +2,7 @@
   <img src="https://yeathatsstillintheworking.placeholder.com" alt="Profile Banner" width="100%">
 </p> -->
 
-#Hey, I'm Michael 
+# Hey, I'm Michael #
 
 **Jack of all trades, pretty good at all of them.** 
 
