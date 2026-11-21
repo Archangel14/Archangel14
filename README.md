@@ -6,7 +6,7 @@
 
 **Jack of all trades, pretty good at all of them.** 
 
-I'm an undergrad engineering student who spends way too much time trying to make physical hardware and functional software play nice together. A friend of magic smoke, but its definitely not my friend. I like building things from the ground up (of course, with help from co-developer AI models), whether it's a custom script to make my life a little bit easier and lazier, a robotics team that makes it to competition finals, vector brand identities that work, or the core firmware that makes an embedded system work.
+I'm an undergrad engineering student who spends way too much time trying to make hardware and its functional software play nice together. A friend of magic smoke, but its definitely not my friend. I like building things, usually from scratch or to improve on an existing concept, of course, with help from my co-developer llms. Whether it's a simple script to make my life a little bit easier and lazier, a robotics project with set goals, a catchy brand identity or graphic representation, or custom firmware an embedded system, I'm pretty much there. 
 
 ### 🚀 What I'm Up To
 *   **Building:** Currently engineering a proprietary embedded hardware product. *(No spoilers until launch day, but it's going to be cool).* 🤫
@@ -28,10 +28,11 @@ I'm an undergrad engineering student who spends way too much time trying to make
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
 </p>
 
-### 📫 Let's Connect
+### Let's Connect
 Whether you want to talk about embedded architecture, robotics, or why digital art is just as important as clean code, my inbox is open.
-*   💼 **LinkedIn:** [linkedin.com/in/michael-menyawovor](https://linkedin.com/in/michael-menyawovor)
+* 
+ **LinkedIn:** [linkedin.com/in/michael-menyawovor](https://linkedin.com/in/michael-menyawovor)
 *   ✉️ **Email:** [emenyawovor@gmail.com](mailto:emenyawovor@gmail.com)
 
 ---
-⚡ *Fun fact: My code is strictly version-controlled, but my desk during a hardware build is pure, unadulterated chaos.*
+*Fun fact: "Make it pretty before you make it work" is highly flawed. Don't ask how I know.*
