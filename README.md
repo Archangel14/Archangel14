@@ -9,7 +9,7 @@
 I'm an undergrad engineering student who spends way too much time trying to make hardware and its functional software play nice together. A friend of magic smoke, but its definitely not my friend. I like building things, usually from scratch or to improve on an existing concept, of course, with help from my co-developer llms. Whether it's a simple script to make my life a little bit easier and lazier, a robotics project with set goals, a catchy brand identity or graphic representation, or custom firmware an embedded system, I'm pretty much there. 
 
 ### 🚀 What I'm Up To
-*   **Building:** Currently engineering a proprietary embedded hardware product. *(No spoilers until launch day, but it's going to be cool).* 🤫
+*   **Building:** Currently engineering a proprietary embedded hardware product. *(No spoilers until launch day, but it's going to be cool).* 
 *   **Learning:** Diving deep into Verilog, advanced networking protocols, and full-stack software development for IoT.
 *   **Tinkering:** Writing C/C++ firmware, crafting Python scripts, and designing localized user interfaces for microcontrollers so they actually look good.
 
@@ -28,7 +28,7 @@ I'm an undergrad engineering student who spends way too much time trying to make
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
 </p>
 
-### Let's Connect
+### 🤝 Let's Connect
 Whether you want to talk about embedded architecture, robotics, or why digital art is just as important as clean code, my inbox is open.
 * 💼  **LinkedIn:** [linkedin.com/in/michael-menyawovor](https://linkedin.com/in/michael-menyawovor)
 * ✉️  **Email:** [emenyawovor@gmail.com](mailto:emenyawovor@gmail.com)
